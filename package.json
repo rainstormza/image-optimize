@@ -1,0 +1,18 @@
+{
+  "name": "imgmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imagemin.js",
+  "scripts": {
+    "start": "node imageMin.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^6.0.0",
+    "imagemin-mozjpeg": "^7.0.0",
+    "imagemin-pngquant": "^6.0.0",
+    "imagemin-webp": "^4.1.0"
+  }
+}
